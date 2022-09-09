@@ -1,0 +1,19 @@
+{
+  "name": "com.unity.lego.modelimporter",
+  "displayName": "LEGO Model Importer",
+  "version": "2.1.0",
+  "unity": "2019.4",
+  "description": "This package allows you to render LEGO bricks on the screen by:\n\n▪ Import models from LXFML or LDraw\n▪ Various optimization options\n▪ Shaders",
+  "dependencies": {
+    "com.unity.textmeshpro": "2.0.1",
+    "com.unity.lego.materials": "1.1.0"
+  },
+  "upmCi": {
+    "footprint": "677159a6d18f412b5d97dd460ae1e4e3b8d9b57b"
+  },
+  "repository": {
+    "url": "https://github.com/Unity-Technologies/com.unity.lego.modelimporter.git",
+    "type": "git",
+    "revision": "e0f4812084feb0e86aee914dc271d64cc0ed3eb0"
+  }
+}

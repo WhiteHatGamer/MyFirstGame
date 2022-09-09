@@ -1,0 +1,16 @@
+{
+  "name": "com.unity.lego.materials",
+  "displayName": "LEGO Materials",
+  "version": "1.1.0",
+  "unity": "2019.4",
+  "description": "A complete library of all past and current LEGO Materials used in the physical sets.",
+  "dependencies": {},
+  "upmCi": {
+    "footprint": "2d1549e802f2dde5f2d9d240b7e9a80feb959384"
+  },
+  "repository": {
+    "url": "https://github.com/Unity-Technologies/com.unity.lego.materials.git",
+    "type": "git",
+    "revision": "02a7ff3330daf2697c4afd82cdb9c494bdbb9f7c"
+  }
+}
